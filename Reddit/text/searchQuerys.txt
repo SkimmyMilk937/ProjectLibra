@@ -1,0 +1,20 @@
+Mortgage
+Interest Rate
+Down Payment
+Credit Score
+Pre-Approval
+Closing Costs
+Real Estate Agent
+Home Inspection
+Appraisal
+Homeowners Insurance
+Property Taxes
+Escrow
+Offer
+Negotiation
+Title
+Loan
+Equity
+FHA Loan
+Conventional Loan
+Debt-to-IncomeRatio
